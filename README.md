@@ -1,4 +1,4 @@
-# Spawn Controls
+# add_custom_model_data
 ## Download: [Releases Page](https://github.com/DominoWWW/add_custom_model_data/releases)
 #### Minecraft Version: 1.21
 Enables all players to add the custom_model_data component to items.
