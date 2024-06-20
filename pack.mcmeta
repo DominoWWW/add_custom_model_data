@@ -1,0 +1,11 @@
+{
+    "name": "add_custom_model_data",
+    "author": "DominoWWW",
+    "version": "1.0.0",
+    "tested_version": ["1.21"],
+    "pack": {
+        "description": ["",{"text":"Enables all players to add the custom_model_data component to items by using ","color":"yellow"},{"text":"/trigger Add_Custom_Model_Data set <Value>","bold":true,"color":"gold"},{"text":"\nby DominoWWW","color":"gold","italic":true}],
+        "pack_format": 48,
+        "supported_formats": [48]
+    }
+}

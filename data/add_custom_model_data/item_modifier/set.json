@@ -1,0 +1,11 @@
+[
+  {
+    "function": "minecraft:set_custom_model_data",
+    "value": {
+      "type": "minecraft:score",
+      "target": "this",
+      "score": "Add_Custom_Model_Data",
+      "scale": 1
+    }
+  }
+]

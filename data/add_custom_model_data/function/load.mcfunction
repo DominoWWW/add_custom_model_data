@@ -1,0 +1,1 @@
+scoreboard objectives add add_custom_model_data trigger

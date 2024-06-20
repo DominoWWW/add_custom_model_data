@@ -1,0 +1,1 @@
+scoreboard objectives remove add_custom_model_data
